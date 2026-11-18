@@ -32,14 +32,9 @@ Thumbs.db
 *.swp
 *.swo
 
-# Large preprocessed & raw datasets
+# Large interim & raw datasets (train/val/test are tracked for collaborators)
 preProcessing/interim/
-preProcessing/train/
-preProcessing/val/
-preProcessing/test/
 preProcessing/dataset and training/
-*.csv.gz
-*.npz
 *.arcs
 *.nodes
 *.route
