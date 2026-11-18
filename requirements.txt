@@ -1,0 +1,33 @@
+
+# Data processing
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+
+# ML models
+xgboost
+lightgbm
+
+# Bayesian Optimization
+optuna
+
+# HMM and road network
+networkx
+
+# Backend
+fastapi
+uvicorn
+pydantic
+requests
+
+# Frontend and maps
+streamlit
+folium
+streamlit-folium
+
+# Visualization and notebooks
+matplotlib
+seaborn
+jupyter
