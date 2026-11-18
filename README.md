@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PathSnap — GPS Map Matching using ML and HMM
 
 PathSnap converts noisy GPS observations into a predicted sequence of road segments. The project compares machine-learning models, tunes a selected model, and uses a Hidden Markov Model (HMM) with Viterbi decoding to reconstruct a continuous route.
