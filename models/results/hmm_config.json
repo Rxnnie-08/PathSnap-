@@ -1,0 +1,7 @@
+{
+  "beta_d": 0.06,
+  "beta_t": 0.1,
+  "not_connected_penalty": 15.0,
+  "eps": 1e-12,
+  "description": "Transition = connectivity bonus + distance mismatch penalty + time gap penalty. Emission = RF P(on_route=1) in log-space. Viterbi with back-pointers."
+}
