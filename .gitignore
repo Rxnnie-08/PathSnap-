@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Large preprocessed & raw datasets
+preProcessing/interim/
+preProcessing/train/
+preProcessing/val/
+preProcessing/test/
+preProcessing/dataset and training/
+*.csv.gz
+*.npz
+*.arcs
+*.nodes
+*.route
+*.track
+
+# Pickle files (keep small fitted scaler)
+*.pkl
+!preProcessing/scaler.pkl
